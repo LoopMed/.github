@@ -1,4 +1,4 @@
-# LoopMed 🩺
+# Loop Tech 🩺
 
 > **Tecnologia a serviço da saúde**
 
